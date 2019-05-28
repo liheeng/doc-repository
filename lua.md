@@ -19,5 +19,6 @@ Current lua version is 5.3
 The install path of luasocket is /usr/local/share/lua/5.3/luasocket_3_0rc1_2-socket.
 Add symbol link for luasocket_3_0rc1_2-socket
 > ln -s /usr/local/share/lua/5.3/luasocket_3_0rc1_2-socket.lua socket.lua
+
 > ln -s /usr/local/share/lua/5.3/luasocket_3_0rc1_2-socket.lua socket
 
