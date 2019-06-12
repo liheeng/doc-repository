@@ -272,7 +272,11 @@ tcp配置，监听端口为514，编码器为json
 修改elasticsearch的hosts配置，指定elasticsearch的地址和监听端口
 发送java系统异常日志邮件通过22-31行的配置
 以root用户启动logstash
-> ./bin/logstash -c conf/logstash.conf
+> ./bin/logstash -f conf/logstash.conf
+
+OR
+
+> nohup ./logstash -f logstash.conf 0</dev/null &
 
 安装配置Kibana
 下载Kibana v4.6.6安装（Kibana安装在10.10.20.34机器上，路径为 /home/shdev/app/kibana-4.6.6-linux-x86_64）
