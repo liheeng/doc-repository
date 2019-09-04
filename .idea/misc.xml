@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1495039446727" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/Aemoney.com/docs/研发/formatstyle.eclipse.aemoney.com.xml" />
+    <option name="selectedJavaProfile" value="aemoney.com" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="JDK 1.8" project-jdk-type="JavaSDK" />
+  <component name="SaveActionSettings">
+    <option name="actions">
+      <set>
+        <option value="activate" />
+        <option value="organizeImports" />
+        <option value="reformat" />
+      </set>
+    </option>
+  </component>
+</project>
